@@ -1,5 +1,5 @@
 
-#Simple Image Gallery
+# Simple Image Gallery
 <h3>Project By <a href="https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Building_blocks/Image_gallery">MDN</a></h3>
 main components and functionalities used in the project:
 
