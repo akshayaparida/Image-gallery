@@ -1,7 +1,7 @@
 
 # Simple Image Gallery
 <h3>Project By <a href="https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Building_blocks/Image_gallery">MDN</a></h3>
-main components and functionalities used in the project:
+Main components and functionalities used in the project:
 
 
 Welcome to the Simple Image Gallery project! This project provides a basic web-based image gallery with the following main features:
